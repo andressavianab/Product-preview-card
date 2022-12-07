@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100;9..144,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100;9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+body {
+   font-size: 14px;
+   margin: 150px 400px;
+   background-color: hsl(30, 38%, 92%)
+}
+
+h1 {
+    font-family: 'Fraunces', serif;
+    font-size: 26px;
+    font-weight: 700;  
+    color: hsl(212, 21%, 14%); 
+}
+
+.principal1 {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.principal-imagem {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.principal-textos {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    padding: 26px;
+    color: hsl(228, 12%, 48%);
+}
+
+.principal-preço {
+    font-family: 'Fraunces', serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: hsl(158, 36%, 37%);
+
+}
+
+
+button {
+    background-color: hsl(159, 25%, 22%);
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(0,0%, 100%);
+    width: 200px;
+    height: 40px;
+    border: 2px solid hsl(158, 25%, 22%);
+    border-radius: 10px;
+}
+
+
+
+
+
+    
+    
+   
+
